@@ -72,6 +72,6 @@ Refer to the docstrings inside the FLAR source code for more detailed explanatio
 
 ---
 
-**Enjoy using FLAR** for large-scale causal discovery with functional boosting! 
+**Enjoy using FLAR** for large-scale causal modeling! 
 
 **For questions or issues**, please open a GitHub issue in the repository or contact `yzi@email.sc.edu`.
