@@ -1,6 +1,4 @@
-Below is an example **README**-style documentation that **walks a user** through **installing and running** your **FLAR** package from **GitHub** using `pip`. You can include this in your repository’s `README.md` (or a separate “installation” doc). Adjust details as needed to match your GitHub repository name, package name, etc.
-
----
+# UAI 2025 FLAR Submission Documentation
 
 ## FLAR Installation & Usage
 
