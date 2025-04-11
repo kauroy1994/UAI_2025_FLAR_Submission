@@ -1,8 +1,0 @@
-===== Comparison Results =====
-     Method  n_vars DAG_type SEM_type     Noise  Runtime_sec  SHD  SID  \
-0       SAM      50       ER   linear  gaussian  1041.952514   58  150   
-1  DAGBoost      50       ER   linear  gaussian     2.427810   59  151   
-
-   ATE_RMSE  
-0  0.190660  
-1  0.191706 

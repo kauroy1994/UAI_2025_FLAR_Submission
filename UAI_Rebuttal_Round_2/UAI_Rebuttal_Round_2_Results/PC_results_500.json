@@ -1,2 +1,0 @@
-{"Method":"PC","n_vars":500,"DAG_type":"ER","SEM_type":"linear","Noise":"gaussian","Runtime_sec":2578.1806528568,"SHD":828,"SID":3395,"ATE_RMSE":0.1355623775}
-{"Method":"DAGBoost","n_vars":500,"DAG_type":"ER","SEM_type":"linear","Noise":"gaussian","Runtime_sec":77.9926707745,"SHD":496,"SID":1042,"ATE_RMSE":0.056864201}
