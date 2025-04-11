@@ -1,0 +1,2 @@
+{"Method":"GES","n_vars":500,"DAG_type":"ER","SEM_type":"linear","Noise":"gaussian","Runtime_sec":1738.6939270496,"SHD":287,"SID":3324,"ATE_RMSE":0.1398184015}
+{"Method":"DAGBoost","n_vars":500,"DAG_type":"ER","SEM_type":"linear","Noise":"gaussian","Runtime_sec":25.8056941032,"SHD":509,"SID":1000,"ATE_RMSE":0.0533673158}

@@ -1,0 +1,12 @@
+===== Comparison Results =====
+     Method  n_vars DAG_type SEM_type     Noise  Runtime_sec  SHD  SID  \
+0      SDCD     100       ER   linear  gaussian   451.162158  112  268   
+1  DAGBoost     100       ER   linear  gaussian    11.604333  116  272   
+2      SDCD     100       SF   linear  gaussian   470.684423  136  411   
+3  DAGBoost     100       SF   linear  gaussian    11.499760  149  424   
+
+   ATE_RMSE  
+0  0.148575  
+1  0.149915  
+2  0.140312  
+3  0.144870 
