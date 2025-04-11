@@ -1,0 +1,4 @@
+{"Method":"SDCD","n_vars":20,"DAG_type":"ER","SEM_type":"linear","Noise":"gaussian","Runtime_sec":96.4727776051,"SHD":21,"SID":29,"ATE_RMSE":0.2110152805}
+{"Method":"DAGBoost","n_vars":20,"DAG_type":"ER","SEM_type":"linear","Noise":"gaussian","Runtime_sec":2.338668108,"SHD":20,"SID":28,"ATE_RMSE":0.2050059721}
+{"Method":"SDCD","n_vars":20,"DAG_type":"SF","SEM_type":"linear","Noise":"gaussian","Runtime_sec":120.9173996449,"SHD":26,"SID":49,"ATE_RMSE":0.311953494}
+{"Method":"DAGBoost","n_vars":20,"DAG_type":"SF","SEM_type":"linear","Noise":"gaussian","Runtime_sec":2.0064938068,"SHD":26,"SID":49,"ATE_RMSE":0.311953494}

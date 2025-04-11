@@ -1,0 +1,32 @@
+===== Comprehensive Experiment Results =====
+    n_vars DAG_type SEM_type        Noise  Runtime_sec   SHD    SID  ATE_RMSE  \
+0       20       ER   linear     gaussian     5.475582    19     26  0.229503   
+1       20       ER   linear  exponential     0.743614    14     21  0.218435   
+2       20       ER   linear      laplace     0.745844    17     24  0.271013   
+3       20       SF   linear     gaussian     0.766041    18     19  0.275077   
+4       20       SF   linear  exponential     0.768719    22     23  0.278661   
+5       20       SF   linear      laplace     0.778615    26     28  0.308510   
+6       50       ER   linear     gaussian     1.895529    56    105  0.204162   
+7       50       ER   linear  exponential     1.883920    58    107  0.216931   
+8       50       ER   linear      laplace     1.951873    53    105  0.209330   
+9       50       SF   linear     gaussian     1.833678    63    129  0.213088   
+10      50       SF   linear  exponential     1.831082    63    131  0.219094   
+11      50       SF   linear      laplace     1.844021    63    131  0.195159   
+12     100       ER   linear     gaussian     3.944062    99    193  0.148081   
+13     100       ER   linear  exponential     4.002675    98    186  0.149573   
+14     100       ER   linear      laplace     3.793458   101    180  0.150383   
+15     100       SF   linear     gaussian     3.849627   176    273  0.162812   
+16     100       SF   linear  exponential     3.890233   174    269  0.162626   
+17     100       SF   linear      laplace     3.918557   150    245  0.163279   
+18     500       ER   linear     gaussian    26.360676   503   1004  0.059815   
+19     500       ER   linear  exponential    26.214868   498    991  0.058817   
+20     500       ER   linear      laplace    26.170910   504   1005  0.059181   
+21     500       SF   linear     gaussian    26.110354   852   5029  0.171540   
+22     500       SF   linear  exponential    26.635557   861   5036  0.171620   
+23     500       SF   linear      laplace    26.066724   854   5031  0.171717   
+24    1000       ER   linear     gaussian    71.492380  1003   2179  0.048027   
+25    1000       ER   linear  exponential    69.933617   999   2179  0.047932   
+26    1000       ER   linear      laplace    71.142869   999   2177  0.048115   
+27    1000       SF   linear     gaussian    70.663536  1512  17933  0.193066   
+28    1000       SF   linear  exponential    70.816908  1509  17930  0.193055   
+29    1000       SF   linear      laplace    70.321567  1515  17936  0.193072

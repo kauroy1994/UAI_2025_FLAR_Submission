@@ -1,0 +1,2 @@
+{"Method":"SAM","n_vars":20,"DAG_type":"ER","SEM_type":"linear","Noise":"gaussian","Runtime_sec":396.8403413296,"SHD":21,"SID":40,"ATE_RMSE":0.1714326322}
+{"Method":"DAGBoost","n_vars":20,"DAG_type":"ER","SEM_type":"linear","Noise":"gaussian","Runtime_sec":0.7562167645,"SHD":380,"SID":340,"ATE_RMSE":0.2126576048}
